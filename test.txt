@@ -1,5 +1,3 @@
 hi
 test
-tea
-hehe
-keke
+
